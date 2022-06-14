@@ -1,9 +1,9 @@
 /*
  * @Author: hly
- * @Description: 
+ * @Description: 对象数组去重
  * @Date: 2022-05-18 18:20:44
- * @LastEditTime: 2022-05-18 18:22:43
- * @FilePath: /jsty-stgl/Users/d_xiaohei/Desktop/deWe.js
+ * @LastEditTime: 2022-06-14 14:49:51
+ * @FilePath: /学习/js/deWe.js
  */
 var arr2 = [
   {name: 'a',id: 1}, 
